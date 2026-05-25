@@ -1,0 +1,94 @@
+aid: output-audio
+name: Output
+description: >-
+  Output is a Los Angeles-based music software company founded in 2013 by
+  composer and CEO Gregg Lehrman that makes creative virtual instruments,
+  audio effects, and a cloud-connected subscription platform for music
+  producers, songwriters, composers, and beatmakers. Its flagship product is
+  Arcade, a cloud-powered playable sampler and instruments plugin whose
+  library of vocal chops, chords, melodies, basslines, loops, samples, and
+  chromatic instruments (organized into product lines such as Hooked,
+  Poolside, and Drip) refreshes daily. Output's catalog also includes
+  Co-Producer, a sample-discovery plugin that finds samples that fit the
+  current project, and the Output FX suite — Portal (granular synthesis
+  engine), Thermal (interactive distortion engine), and Movement (rhythm
+  engine) — alongside legacy Kontakt-based instruments such as Exhale,
+  Analog Brass & Strings, REV, Signal, and Substance. Products are sold as
+  one-time perpetual licenses and bundled in the Output One subscription
+  ($14.99/month or $119.99/year) covering Arcade, Co-Producer, and the
+  three FX plugins with all expansion packs included. Output raised a $45M
+  Series A from Summit Partners in 2020. Products are delivered as VST3,
+  AU, and AAX plugins (Arcade also runs as a standalone desktop app)
+  installed via account.output.com and the Output Hub; there is no public
+  REST API, SDK, or developer program — integration is through the
+  industry-standard DAW plugin formats.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Music Software
+  - Music Production
+  - Audio Plugins
+  - Virtual Instruments
+  - Audio Effects
+  - Samplers
+  - Sample Library
+  - Loops
+  - Cloud-Connected Plugin
+  - DAW
+  - VST
+  - VST3
+  - AU
+  - AAX
+  - Kontakt
+  - Granular Synthesis
+  - Distortion
+  - Rhythm
+  - Subscription
+  - Arcade
+  - Co-Producer
+  - Output One
+url: https://raw.githubusercontent.com/api-evangelist/output-audio/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://output.com
+  - type: Arcade
+    url: https://output.com/products/arcade
+  - type: CoProducer
+    url: https://output.com/products/co-producer
+  - type: Portal
+    url: https://output.com/products/portal
+  - type: Thermal
+    url: https://output.com/products/thermal
+  - type: Movement
+    url: https://output.com/products/movement
+  - type: Subscriptions
+    url: https://output.com/subscriptions/
+  - type: Pricing
+    url: https://output.com/pricing/
+  - type: SignUp
+    url: https://subscriptions.output.com/
+  - type: Account
+    url: https://account.output.com/
+  - type: Support
+    url: https://support.output.com/
+  - type: OutputOne
+    url: https://support.output.com/en/articles/11554585-output-one
+  - type: YouTube
+    url: https://www.youtube.com/@OutputInc
+  - type: Instagram
+    url: https://www.instagram.com/output
+  - type: Twitter
+    url: https://twitter.com/output
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/output
+  - type: Facebook
+    url: https://www.facebook.com/output
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
