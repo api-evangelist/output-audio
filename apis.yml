@@ -71,7 +71,7 @@ common:
     url: https://output.com/subscriptions/
   - type: Pricing
     url: https://output.com/pricing/
-  - type: SignUp
+  - type: Signup
     url: https://subscriptions.output.com/
   - type: Account
     url: https://account.output.com/
